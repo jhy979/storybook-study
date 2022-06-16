@@ -283,6 +283,10 @@ yarn add -D chromatic
 
 - 직접 배포해보니 chromatic은 push될 때마다 새롭게 build를 진행하여 ui 변경점들을 한 눈에 보기 쉬웠어요. 또, 어떤 build version으로든 바로 돌아갈 수 있어서 좋았습니다.
 
+[스토리북 공식페이지](https://storybook.js.org/tutorials/intro-to-storybook/react/ko/deploy/)
+
+배포는 제가 정리할 게 없어요.. 그냥 공식문서 따라가는 것이 best라고 생각이 듭니다!
+
 # 🎯 테스트
 
 > 수동 테스트
